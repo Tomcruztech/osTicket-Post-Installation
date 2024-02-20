@@ -1,4 +1,4 @@
-Part 3 (Post Installation Setup)
+ (Post Installation Setup)
 Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin
